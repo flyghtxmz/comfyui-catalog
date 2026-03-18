@@ -1,1 +1,1 @@
-# omfyui-catalog
+# comfyui-catalog
