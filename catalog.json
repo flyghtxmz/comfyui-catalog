@@ -171,8 +171,20 @@
     }
   ],
   "totalEntries": 8,
-  "lastUpdated": "2026-03-19T00:20:20.008Z",
+  "lastUpdated": "2026-03-19T00:40:44.163Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-03-19T00:40:47.078Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "bff78680-bf0d-452b-9ab9-a7b7ec4f3adf",
+      "endpointLabel": "Business",
+      "bootId": "871055ee101947698a6af12b02c5c0d7",
+      "updatedAtUtc": "2026-03-19T00:40:44.163Z",
+      "reason": "manual",
+      "received": 8,
+      "upserted": 8
+    },
     {
       "syncedAtUtc": "2026-03-19T00:20:22.056Z",
       "source": "active-endpoint",
