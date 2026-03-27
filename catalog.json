@@ -2,6 +2,48 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "2e2d60fd4d49f8b8",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-22b-dev.safetensors",
+      "filename": "ltx-2.3-22b-dev.safetensors",
+      "category": "checkpoints",
+      "subdir": "",
+      "savedPath": "checkpoints/ltx-2.3-22b-dev.safetensors",
+      "timestampUtc": "2026-03-27T10:33:04.959Z",
+      "updatedAtUtc": "2026-03-27T10:34:11.296Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
+      "sourceEndpointLabel": "00",
+      "bootId": "36ee5a1da1db49c1a65a513085970699",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-03-27T10:34:12.388Z",
+      "lastImportedAtUtc": "2026-03-27T10:34:11.296Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
+      "entryId": "4b26b851130b9f9a",
+      "provider": "civitai",
+      "url": "https://civitai.com/api/download/models/2447693?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=0bce4950420f7f823254d1e876a3a69a",
+      "filename": "zImageTurboBaseAIO_zImageTurboBF16AIO.safetensors",
+      "category": "checkpoints",
+      "subdir": "",
+      "savedPath": "checkpoints/zImageTurboBaseAIO_zImageTurboBF16AIO.safetensors",
+      "timestampUtc": "2026-03-27T05:26:58.204Z",
+      "updatedAtUtc": "2026-03-27T10:34:11.296Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
+      "sourceEndpointLabel": "00",
+      "bootId": "36ee5a1da1db49c1a65a513085970699",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-03-27T10:34:12.338Z",
+      "lastImportedAtUtc": "2026-03-27T10:34:11.296Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "1cb3e12e23a22428",
       "provider": "huggingface",
       "url": "https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
@@ -653,9 +695,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 31,
-  "lastUpdated": "2026-03-27T02:05:17.237Z",
+  "totalEntries": 33,
+  "lastUpdated": "2026-03-27T10:34:11.296Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-03-27T10:34:14.471Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
+      "endpointLabel": "00",
+      "bootId": "36ee5a1da1db49c1a65a513085970699",
+      "updatedAtUtc": "2026-03-27T10:34:11.296Z",
+      "reason": "manual",
+      "received": 33,
+      "upserted": 33
+    },
     {
       "syncedAtUtc": "2026-03-27T02:05:19.296Z",
       "source": "active-endpoint",
