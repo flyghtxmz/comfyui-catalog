@@ -2,6 +2,27 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "ca1d4fed5cc78ac8",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-22b-distilled-lora-384.safetensors",
+      "filename": "ltx-2.3-22b-distilled-lora-384.safetensors",
+      "category": "loras",
+      "subdir": "",
+      "savedPath": "loras/ltx-2.3-22b-distilled-lora-384.safetensors",
+      "timestampUtc": "2026-03-27T10:37:17.154Z",
+      "updatedAtUtc": "2026-03-27T10:37:36.088Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
+      "sourceEndpointLabel": "00",
+      "bootId": "36ee5a1da1db49c1a65a513085970699",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-03-27T10:37:36.855Z",
+      "lastImportedAtUtc": "2026-03-27T10:37:36.088Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "2e2d60fd4d49f8b8",
       "provider": "huggingface",
       "url": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-22b-dev.safetensors",
@@ -18,7 +39,7 @@
       "bootId": "36ee5a1da1db49c1a65a513085970699",
       "lastReason": "manual",
       "createdAtUtc": "2026-03-27T10:34:12.388Z",
-      "lastImportedAtUtc": "2026-03-27T10:34:11.296Z",
+      "lastImportedAtUtc": "2026-03-27T10:37:36.088Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -39,7 +60,7 @@
       "bootId": "36ee5a1da1db49c1a65a513085970699",
       "lastReason": "manual",
       "createdAtUtc": "2026-03-27T10:34:12.338Z",
-      "lastImportedAtUtc": "2026-03-27T10:34:11.296Z",
+      "lastImportedAtUtc": "2026-03-27T10:37:36.088Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -695,9 +716,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 33,
-  "lastUpdated": "2026-03-27T10:34:11.296Z",
+  "totalEntries": 34,
+  "lastUpdated": "2026-03-27T10:37:36.088Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-03-27T10:37:38.730Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
+      "endpointLabel": "00",
+      "bootId": "36ee5a1da1db49c1a65a513085970699",
+      "updatedAtUtc": "2026-03-27T10:37:36.088Z",
+      "reason": "manual",
+      "received": 34,
+      "upserted": 34
+    },
     {
       "syncedAtUtc": "2026-03-27T10:34:14.471Z",
       "source": "active-endpoint",
