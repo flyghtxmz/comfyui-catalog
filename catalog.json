@@ -18,7 +18,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -39,7 +39,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -60,7 +60,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -81,7 +81,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -102,7 +102,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -123,7 +123,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.670Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -144,7 +144,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -165,7 +165,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.670Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -186,7 +186,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.712Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -990,8 +990,20 @@
     }
   ],
   "totalEntries": 47,
-  "lastUpdated": "2026-05-05T18:49:10.287Z",
+  "lastUpdated": "2026-05-05T18:49:34.966Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-05-05T18:49:37.389Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "a0e23ac7-47bc-46c1-bb31-9a3fe520bef1",
+      "endpointLabel": "Menezes 36",
+      "bootId": "f944f09e149e44849b0a2ec884cafe44",
+      "updatedAtUtc": "2026-05-05T18:49:34.966Z",
+      "reason": "manual",
+      "received": 47,
+      "upserted": 47
+    },
     {
       "syncedAtUtc": "2026-05-05T18:49:19.451Z",
       "source": "active-endpoint",
@@ -1123,18 +1135,6 @@
       "reason": "manual",
       "received": 8,
       "upserted": 8
-    },
-    {
-      "syncedAtUtc": "2026-03-18T18:35:23.674Z",
-      "source": "dashboard",
-      "app": "projectmdl-dashboard",
-      "endpointId": null,
-      "endpointLabel": "Dashboard",
-      "bootId": null,
-      "updatedAtUtc": "2026-03-18T18:35:23.384Z",
-      "reason": "manual",
-      "received": 0,
-      "upserted": 0
     }
   ]
 }
