@@ -2,6 +2,27 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "d6cee296eab32385",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx-2.3-22b-distilled-1.1.safetensors?download=true",
+      "filename": "ltx-2.3-22b-distilled-1.1.safetensors",
+      "category": "diffusion_models",
+      "subdir": "",
+      "savedPath": "diffusion_models/ltx-2.3-22b-distilled-1.1.safetensors",
+      "timestampUtc": "2026-05-05T22:49:53.014Z",
+      "updatedAtUtc": "2026-05-05T22:51:19.174Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "c3400beb-a9d9-49e9-9f7f-4a91a18ac851",
+      "sourceEndpointLabel": "Aprovado",
+      "bootId": "14f492036c8e48cf8c822f2e8c295994",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-05T22:51:19.947Z",
+      "lastImportedAtUtc": "2026-05-05T22:51:19.174Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "7338c80a4a853275",
       "provider": "huggingface",
       "url": "https://huggingface.co/nomadoor/flux-2-klein-9B-360-erp-outpaint-lora/resolve/main/flux-2-klein-9B-360-erp-outpaint-lora_V1.safetensors",
@@ -18,7 +39,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -39,7 +60,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -60,7 +81,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -81,7 +102,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -102,7 +123,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -123,7 +144,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.670Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -144,7 +165,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.658Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -165,7 +186,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.670Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -186,7 +207,7 @@
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "lastReason": "manual",
       "createdAtUtc": "2026-05-05T18:49:17.712Z",
-      "lastImportedAtUtc": "2026-05-05T18:49:34.966Z",
+      "lastImportedAtUtc": "2026-05-05T18:49:10.287Z",
       "lastImportedSource": "active-endpoint",
       "lastImportedReason": "manual"
     },
@@ -989,9 +1010,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 47,
-  "lastUpdated": "2026-05-05T18:49:34.966Z",
+  "totalEntries": 48,
+  "lastUpdated": "2026-05-05T22:51:19.174Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-05-05T22:51:21.743Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "c3400beb-a9d9-49e9-9f7f-4a91a18ac851",
+      "endpointLabel": "Aprovado",
+      "bootId": "14f492036c8e48cf8c822f2e8c295994",
+      "updatedAtUtc": "2026-05-05T22:51:19.174Z",
+      "reason": "manual",
+      "received": 48,
+      "upserted": 48
+    },
     {
       "syncedAtUtc": "2026-05-05T18:49:37.389Z",
       "source": "active-endpoint",
@@ -1120,18 +1153,6 @@
       "endpointLabel": "Business",
       "bootId": "1e5b05073e5c41708672529e077d80ac",
       "updatedAtUtc": "2026-03-19T00:07:12.832Z",
-      "reason": "manual",
-      "received": 8,
-      "upserted": 8
-    },
-    {
-      "syncedAtUtc": "2026-03-18T18:58:46.375Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "98255b5a-278d-4751-aa4b-48992d58ad21",
-      "endpointLabel": "ComfyUI Sophi",
-      "bootId": null,
-      "updatedAtUtc": "2026-03-18T18:58:45.161Z",
       "reason": "manual",
       "received": 8,
       "upserted": 8
