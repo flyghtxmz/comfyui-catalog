@@ -2,6 +2,48 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "22c55652dc2a2461",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Comfy-Org/z_image/resolve/main/split_files/diffusion_models/z_image_bf16.safetensors",
+      "filename": "z_image_bf16.safetensors",
+      "category": "diffusion_models",
+      "subdir": "",
+      "savedPath": "diffusion_models/z_image_bf16.safetensors",
+      "timestampUtc": "2026-05-06T12:02:43.674Z",
+      "updatedAtUtc": "2026-05-06T12:10:14.700Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "c3400beb-a9d9-49e9-9f7f-4a91a18ac851",
+      "sourceEndpointLabel": "Aprovado",
+      "bootId": "626164d25d504202afcddb89ea9557d6",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-06T12:10:15.662Z",
+      "lastImportedAtUtc": "2026-05-06T12:10:14.700Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
+      "entryId": "688b6700ec4f13f2",
+      "provider": "civitai",
+      "url": "https://civitai.red/api/download/models/2646540?type=Model&format=SafeTensor&token=0bce4950420f7f823254d1e876a3a69a",
+      "filename": "DarkGhiblyZBase_000008000.safetensors",
+      "category": "loras",
+      "subdir": "",
+      "savedPath": "loras/DarkGhiblyZBase_000008000.safetensors",
+      "timestampUtc": "2026-05-06T12:09:48.411Z",
+      "updatedAtUtc": "2026-05-06T12:10:14.700Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "c3400beb-a9d9-49e9-9f7f-4a91a18ac851",
+      "sourceEndpointLabel": "Aprovado",
+      "bootId": "626164d25d504202afcddb89ea9557d6",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-06T12:10:15.621Z",
+      "lastImportedAtUtc": "2026-05-06T12:10:14.700Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "26833d86ed0f10b4",
       "provider": "huggingface",
       "url": "https://huggingface.co/Comfy-Org/vae-text-encorder-for-flux-klein-9b/resolve/main/split_files/text_encoders/qwen_3_8b.safetensors",
@@ -1073,9 +1115,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 51,
-  "lastUpdated": "2026-05-06T01:05:04.881Z",
+  "totalEntries": 53,
+  "lastUpdated": "2026-05-06T12:10:14.700Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-05-06T12:10:17.463Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "c3400beb-a9d9-49e9-9f7f-4a91a18ac851",
+      "endpointLabel": "Aprovado",
+      "bootId": "626164d25d504202afcddb89ea9557d6",
+      "updatedAtUtc": "2026-05-06T12:10:14.700Z",
+      "reason": "manual",
+      "received": 52,
+      "upserted": 52
+    },
     {
       "syncedAtUtc": "2026-05-06T01:05:07.745Z",
       "source": "active-endpoint",
@@ -1204,18 +1258,6 @@
       "endpointLabel": "Business",
       "bootId": "871055ee101947698a6af12b02c5c0d7",
       "updatedAtUtc": "2026-03-19T00:40:44.163Z",
-      "reason": "manual",
-      "received": 8,
-      "upserted": 8
-    },
-    {
-      "syncedAtUtc": "2026-03-19T00:20:22.056Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "bff78680-bf0d-452b-9ab9-a7b7ec4f3adf",
-      "endpointLabel": "Business",
-      "bootId": "1e5b05073e5c41708672529e077d80ac",
-      "updatedAtUtc": "2026-03-19T00:20:20.008Z",
       "reason": "manual",
       "received": 8,
       "upserted": 8
