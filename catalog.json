@@ -2,6 +2,48 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "382bbac4b394338f",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Kijai/LTX2.3_comfy/resolve/main/diffusion_models/ltx-2.3-22b-distilled-1.1_transformer_only_bf16.safetensors",
+      "filename": "ltx-2.3-22b-distilled-1.1_transformer_only_bf16.safetensors",
+      "category": "diffusion_models",
+      "subdir": "",
+      "savedPath": "checkpoints/ltx-2.3-22b-distilled-1.1_transformer_only_bf16.safetensors",
+      "timestampUtc": "2026-05-13T19:10:30.042Z",
+      "updatedAtUtc": "2026-05-13T19:16:12.349Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
+      "sourceEndpointLabel": "00",
+      "bootId": "d276d68d878145319c6485804a3b1fc9",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-13T19:16:13.585Z",
+      "lastImportedAtUtc": "2026-05-13T19:16:12.349Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
+      "entryId": "8c8920f94b594269",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Kijai/LTX2.3_comfy/resolve/main/vae/taeltx2_3.safetensors",
+      "filename": "taeltx2_3.safetensors",
+      "category": "vae",
+      "subdir": "",
+      "savedPath": "vae/taeltx2_3.safetensors",
+      "timestampUtc": "2026-05-13T19:04:06.640Z",
+      "updatedAtUtc": "2026-05-13T19:16:12.349Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
+      "sourceEndpointLabel": "00",
+      "bootId": "d276d68d878145319c6485804a3b1fc9",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-13T19:16:13.610Z",
+      "lastImportedAtUtc": "2026-05-13T19:16:12.349Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "59ae9483644cc4ef",
       "provider": "huggingface",
       "url": "https://huggingface.co/Comfy-Org/ltx-2/resolve/main/split_files/loras/gemma-3-12b-it-abliterated_lora_rank64_bf16.safetensors",
@@ -1262,9 +1304,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 60,
-  "lastUpdated": "2026-05-13T18:58:34.851Z",
+  "totalEntries": 62,
+  "lastUpdated": "2026-05-13T19:16:12.349Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-05-13T19:16:15.546Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
+      "endpointLabel": "00",
+      "bootId": "d276d68d878145319c6485804a3b1fc9",
+      "updatedAtUtc": "2026-05-13T19:16:12.349Z",
+      "reason": "manual",
+      "received": 61,
+      "upserted": 61
+    },
     {
       "syncedAtUtc": "2026-05-13T18:58:37.784Z",
       "source": "active-endpoint",
@@ -1396,18 +1450,6 @@
       "reason": "manual",
       "received": 31,
       "upserted": 31
-    },
-    {
-      "syncedAtUtc": "2026-03-20T18:01:53.193Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "6a59e53e-cb0c-499f-8b7d-8e5ca95130ec",
-      "endpointLabel": "Érica",
-      "bootId": "d1413291716b440fbbda4828918638d6",
-      "updatedAtUtc": "2026-03-20T18:01:51.651Z",
-      "reason": "manual",
-      "received": 26,
-      "upserted": 26
     }
   ]
 }
