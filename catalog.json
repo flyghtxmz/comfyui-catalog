@@ -2,6 +2,27 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "7135081422385438",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base/resolve/main/sulphur_distil_bf16.safetensors",
+      "filename": "sulphur_distil_bf16.safetensors",
+      "category": "diffusion_models",
+      "subdir": "",
+      "savedPath": "diffusion_models/sulphur_distil_bf16.safetensors",
+      "timestampUtc": "2026-05-18T22:02:42.251Z",
+      "updatedAtUtc": "2026-05-18T22:10:38.293Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "88db61e9-08fa-4718-a708-db30cd0ca0df",
+      "sourceEndpointLabel": "Nigga",
+      "bootId": "76d93da263c640b6b4b63f58da41a1fb",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-18T22:10:39.303Z",
+      "lastImportedAtUtc": "2026-05-18T22:10:38.293Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "c4f32b9e6c1041ce",
       "provider": "huggingface",
       "url": "https://huggingface.co/SulphurAI/Sulphur-2-base/resolve/main/sulphur_dev_bf16.safetensors",
@@ -1346,9 +1367,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 64,
-  "lastUpdated": "2026-05-18T19:41:06.129Z",
+  "totalEntries": 65,
+  "lastUpdated": "2026-05-18T22:10:38.293Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-05-18T22:10:41.282Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "88db61e9-08fa-4718-a708-db30cd0ca0df",
+      "endpointLabel": "Nigga",
+      "bootId": "76d93da263c640b6b4b63f58da41a1fb",
+      "updatedAtUtc": "2026-05-18T22:10:38.293Z",
+      "reason": "manual",
+      "received": 64,
+      "upserted": 64
+    },
     {
       "syncedAtUtc": "2026-05-18T19:41:08.870Z",
       "source": "active-endpoint",
@@ -1480,18 +1513,6 @@
       "reason": "manual",
       "received": 38,
       "upserted": 38
-    },
-    {
-      "syncedAtUtc": "2026-03-27T10:37:38.730Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
-      "endpointLabel": "00",
-      "bootId": "36ee5a1da1db49c1a65a513085970699",
-      "updatedAtUtc": "2026-03-27T10:37:36.088Z",
-      "reason": "manual",
-      "received": 34,
-      "upserted": 34
     }
   ]
 }
