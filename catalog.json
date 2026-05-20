@@ -1473,8 +1473,20 @@
     }
   ],
   "totalEntries": 70,
-  "lastUpdated": "2026-05-20T21:20:53.146Z",
+  "lastUpdated": "2026-05-20T22:40:41.799Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-05-20T22:40:45.177Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "7358d167-62e0-451f-b027-81117228918a",
+      "endpointLabel": "vinteedois",
+      "bootId": "039f88a90f504fa28e3d8464315c7a12",
+      "updatedAtUtc": "2026-05-20T22:40:41.799Z",
+      "reason": "manual",
+      "received": 69,
+      "upserted": 69
+    },
     {
       "syncedAtUtc": "2026-05-20T21:20:56.538Z",
       "source": "active-endpoint",
@@ -1606,18 +1618,6 @@
       "reason": "manual",
       "received": 48,
       "upserted": 48
-    },
-    {
-      "syncedAtUtc": "2026-05-05T18:49:37.389Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "a0e23ac7-47bc-46c1-bb31-9a3fe520bef1",
-      "endpointLabel": "Menezes 36",
-      "bootId": "f944f09e149e44849b0a2ec884cafe44",
-      "updatedAtUtc": "2026-05-05T18:49:34.966Z",
-      "reason": "manual",
-      "received": 47,
-      "upserted": 47
     }
   ]
 }
