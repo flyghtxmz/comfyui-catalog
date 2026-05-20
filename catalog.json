@@ -2,6 +2,48 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "abede63b4009f0f8",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/dong625/StableDiffusionModel/resolve/main/4xNomos8k_atd_jpg.safetensors",
+      "filename": "4xNomos8k_atd_jpg.safetensors",
+      "category": "upscale_models",
+      "subdir": "",
+      "savedPath": "upscale_models/4xNomos8k_atd_jpg.safetensors",
+      "timestampUtc": "2026-05-20T19:55:21.093Z",
+      "updatedAtUtc": "2026-05-20T21:20:53.146Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "7358d167-62e0-451f-b027-81117228918a",
+      "sourceEndpointLabel": "vinteedois",
+      "bootId": "ba4d3950c0ea40ac8a9c60c8c7fd4713",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-20T21:20:54.488Z",
+      "lastImportedAtUtc": "2026-05-20T21:20:53.146Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
+      "entryId": "d36920a6d721e022",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/notkenski/upscalers/resolve/main/1xSkinContrast-High-SuperUltraCompact.pth",
+      "filename": "1xSkinContrast-High-SuperUltraCompact.pth",
+      "category": "upscale_models",
+      "subdir": "",
+      "savedPath": "upscale_models/1xSkinContrast-High-SuperUltraCompact.pth",
+      "timestampUtc": "2026-05-20T19:54:04.108Z",
+      "updatedAtUtc": "2026-05-20T21:20:53.146Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "7358d167-62e0-451f-b027-81117228918a",
+      "sourceEndpointLabel": "vinteedois",
+      "bootId": "ba4d3950c0ea40ac8a9c60c8c7fd4713",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-20T21:20:54.479Z",
+      "lastImportedAtUtc": "2026-05-20T21:20:53.146Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "a9227f3b5169c5e9",
       "provider": "civitai",
       "url": "https://civitai.red/api/download/models/2817366?type=Model&format=SafeTensor&size=full&fp=bf16&token=0bce4950420f7f823254d1e876a3a69a",
@@ -1430,9 +1472,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 68,
-  "lastUpdated": "2026-05-20T19:51:09.156Z",
+  "totalEntries": 70,
+  "lastUpdated": "2026-05-20T21:20:53.146Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-05-20T21:20:56.538Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "7358d167-62e0-451f-b027-81117228918a",
+      "endpointLabel": "vinteedois",
+      "bootId": "ba4d3950c0ea40ac8a9c60c8c7fd4713",
+      "updatedAtUtc": "2026-05-20T21:20:53.146Z",
+      "reason": "manual",
+      "received": 69,
+      "upserted": 69
+    },
     {
       "syncedAtUtc": "2026-05-20T19:51:13.107Z",
       "source": "active-endpoint",
@@ -1561,18 +1615,6 @@
       "endpointLabel": "Menezes 36",
       "bootId": "f944f09e149e44849b0a2ec884cafe44",
       "updatedAtUtc": "2026-05-05T18:49:34.966Z",
-      "reason": "manual",
-      "received": 47,
-      "upserted": 47
-    },
-    {
-      "syncedAtUtc": "2026-05-05T18:49:19.451Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "a0e23ac7-47bc-46c1-bb31-9a3fe520bef1",
-      "endpointLabel": "Menezes 36",
-      "bootId": "f944f09e149e44849b0a2ec884cafe44",
-      "updatedAtUtc": "2026-05-05T18:49:10.287Z",
       "reason": "manual",
       "received": 47,
       "upserted": 47
