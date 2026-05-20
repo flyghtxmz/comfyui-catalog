@@ -2,6 +2,69 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "a9227f3b5169c5e9",
+      "provider": "civitai",
+      "url": "https://civitai.red/api/download/models/2817366?type=Model&format=SafeTensor&size=full&fp=bf16&token=0bce4950420f7f823254d1e876a3a69a",
+      "filename": "cyberrealisticZImage_v40.safetensors",
+      "category": "diffusion_models",
+      "subdir": "",
+      "savedPath": "diffusion_models/cyberrealisticZImage_v40.safetensors",
+      "timestampUtc": "2026-05-20T19:14:55.234Z",
+      "updatedAtUtc": "2026-05-20T19:51:09.156Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "7358d167-62e0-451f-b027-81117228918a",
+      "sourceEndpointLabel": "vinteedois",
+      "bootId": "9621659177194b2985540513d98dace1",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-20T19:51:11.300Z",
+      "lastImportedAtUtc": "2026-05-20T19:51:09.156Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
+      "entryId": "0301a75b69c32ed2",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/LoneWolfVPS/TIZ_TESTING/resolve/main/ultrafluxVAEImproved_v10.safetensors",
+      "filename": "ultrafluxVAEImproved_v10.safetensors",
+      "category": "vae",
+      "subdir": "",
+      "savedPath": "vae/ultrafluxVAEImproved_v10.safetensors",
+      "timestampUtc": "2026-05-20T19:20:19.854Z",
+      "updatedAtUtc": "2026-05-20T19:51:09.156Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "7358d167-62e0-451f-b027-81117228918a",
+      "sourceEndpointLabel": "vinteedois",
+      "bootId": "9621659177194b2985540513d98dace1",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-20T19:51:11.294Z",
+      "lastImportedAtUtc": "2026-05-20T19:51:09.156Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
+      "entryId": "9eb9930af74e7c25",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/alibaba-pai/Z-Image-Turbo-Fun-Controlnet-Union-2.1/resolve/main/Z-Image-Turbo-Fun-Controlnet-Union-2.1.safetensors",
+      "filename": "Z-Image-Turbo-Fun-Controlnet-Union-2.1.safetensors",
+      "category": "model_patches",
+      "subdir": "",
+      "savedPath": "model_patches/Z-Image-Turbo-Fun-Controlnet-Union-2.1.safetensors",
+      "timestampUtc": "2026-05-20T19:29:43.874Z",
+      "updatedAtUtc": "2026-05-20T19:51:09.156Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "7358d167-62e0-451f-b027-81117228918a",
+      "sourceEndpointLabel": "vinteedois",
+      "bootId": "9621659177194b2985540513d98dace1",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-05-20T19:51:11.318Z",
+      "lastImportedAtUtc": "2026-05-20T19:51:09.156Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "7135081422385438",
       "provider": "huggingface",
       "url": "https://huggingface.co/SulphurAI/Sulphur-2-base/resolve/main/sulphur_distil_bf16.safetensors",
@@ -1367,9 +1430,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 65,
-  "lastUpdated": "2026-05-18T22:10:38.293Z",
+  "totalEntries": 68,
+  "lastUpdated": "2026-05-20T19:51:09.156Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-05-20T19:51:13.107Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "7358d167-62e0-451f-b027-81117228918a",
+      "endpointLabel": "vinteedois",
+      "bootId": "9621659177194b2985540513d98dace1",
+      "updatedAtUtc": "2026-05-20T19:51:09.156Z",
+      "reason": "manual",
+      "received": 67,
+      "upserted": 67
+    },
     {
       "syncedAtUtc": "2026-05-18T22:10:41.282Z",
       "source": "active-endpoint",
@@ -1501,18 +1576,6 @@
       "reason": "manual",
       "received": 47,
       "upserted": 47
-    },
-    {
-      "syncedAtUtc": "2026-05-05T17:00:14.439Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "a0e23ac7-47bc-46c1-bb31-9a3fe520bef1",
-      "endpointLabel": "Menezes 36",
-      "bootId": "45ab2090d0684893981e87a8ee7206d7",
-      "updatedAtUtc": "2026-05-05T17:00:11.991Z",
-      "reason": "manual",
-      "received": 38,
-      "upserted": 38
     }
   ]
 }
