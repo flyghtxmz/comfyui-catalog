@@ -2,6 +2,69 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "80706e79078364f4",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/text_encoders/qwen3vl_4b_fp8_scaled.safetensors?download=true",
+      "filename": "qwen3vl_4b_fp8_scaled.safetensors",
+      "category": "text_encoders",
+      "subdir": "",
+      "savedPath": "text_encoders/qwen3vl_4b_fp8_scaled.safetensors",
+      "timestampUtc": "2026-07-13T20:58:56.985Z",
+      "updatedAtUtc": "2026-07-13T21:21:42.251Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "a0e23ac7-47bc-46c1-bb31-9a3fe520bef1",
+      "sourceEndpointLabel": "Menezes 36",
+      "bootId": "b3e042008db7466bada8a93cbc4d93f1",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-07-13T21:21:43.035Z",
+      "lastImportedAtUtc": "2026-07-13T21:21:42.251Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
+      "entryId": "b73e251cf3b53fd2",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/diffusion_models/krea2_turbo_fp8_scaled.safetensors",
+      "filename": "krea2_turbo_fp8_scaled.safetensors",
+      "category": "diffusion_models",
+      "subdir": "",
+      "savedPath": "diffusion_models/krea2_turbo_fp8_scaled.safetensors",
+      "timestampUtc": "2026-07-13T20:56:14.162Z",
+      "updatedAtUtc": "2026-07-13T21:21:42.251Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "a0e23ac7-47bc-46c1-bb31-9a3fe520bef1",
+      "sourceEndpointLabel": "Menezes 36",
+      "bootId": "b3e042008db7466bada8a93cbc4d93f1",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-07-13T21:21:43.021Z",
+      "lastImportedAtUtc": "2026-07-13T21:21:42.251Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
+      "entryId": "d1ba473577fa062c",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Comfy-Org/Krea-2/resolve/main/loras/krea2_darkbrush.safetensors",
+      "filename": "krea2_darkbrush.safetensors",
+      "category": "loras",
+      "subdir": "",
+      "savedPath": "loras/krea2_darkbrush.safetensors",
+      "timestampUtc": "2026-07-13T20:57:01.127Z",
+      "updatedAtUtc": "2026-07-13T21:21:42.251Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "a0e23ac7-47bc-46c1-bb31-9a3fe520bef1",
+      "sourceEndpointLabel": "Menezes 36",
+      "bootId": "b3e042008db7466bada8a93cbc4d93f1",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-07-13T21:21:43.027Z",
+      "lastImportedAtUtc": "2026-07-13T21:21:42.251Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "abede63b4009f0f8",
       "provider": "huggingface",
       "url": "https://huggingface.co/dong625/StableDiffusionModel/resolve/main/4xNomos8k_atd_jpg.safetensors",
@@ -1472,9 +1535,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 70,
-  "lastUpdated": "2026-05-20T22:40:41.799Z",
+  "totalEntries": 73,
+  "lastUpdated": "2026-07-13T21:21:42.251Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-07-13T21:21:44.762Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "a0e23ac7-47bc-46c1-bb31-9a3fe520bef1",
+      "endpointLabel": "Menezes 36",
+      "bootId": "b3e042008db7466bada8a93cbc4d93f1",
+      "updatedAtUtc": "2026-07-13T21:21:42.251Z",
+      "reason": "manual",
+      "received": 72,
+      "upserted": 72
+    },
     {
       "syncedAtUtc": "2026-05-20T22:40:45.177Z",
       "source": "active-endpoint",
@@ -1606,18 +1681,6 @@
       "reason": "manual",
       "received": 50,
       "upserted": 50
-    },
-    {
-      "syncedAtUtc": "2026-05-05T22:51:21.743Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "c3400beb-a9d9-49e9-9f7f-4a91a18ac851",
-      "endpointLabel": "Aprovado",
-      "bootId": "14f492036c8e48cf8c822f2e8c295994",
-      "updatedAtUtc": "2026-05-05T22:51:19.174Z",
-      "reason": "manual",
-      "received": 48,
-      "upserted": 48
     }
   ]
 }
