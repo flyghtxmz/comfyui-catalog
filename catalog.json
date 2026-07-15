@@ -2,6 +2,27 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "f8234ea598878481",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8/resolve/main/krea2_turbo_mxfp8.safetensors",
+      "filename": "krea2_turbo_mxfp8.safetensors",
+      "category": "diffusion_models",
+      "subdir": "",
+      "savedPath": "diffusion_models/krea2_turbo_mxfp8.safetensors",
+      "timestampUtc": "2026-07-15T19:35:00.824Z",
+      "updatedAtUtc": "2026-07-15T19:37:57.547Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "6a59e53e-cb0c-499f-8b7d-8e5ca95130ec",
+      "sourceEndpointLabel": "Érica",
+      "bootId": "0771f12906d0410e9d661a31b39ac4ef",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-07-15T19:37:58.594Z",
+      "lastImportedAtUtc": "2026-07-15T19:37:57.547Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "e2c5b17db876e93e",
       "provider": "civitai",
       "url": "https://civitai.com/api/download/models/3106559?fileId=2986504&token=0bce4950420f7f823254d1e876a3a69a",
@@ -1556,9 +1577,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 74,
-  "lastUpdated": "2026-07-13T23:34:42.319Z",
+  "totalEntries": 75,
+  "lastUpdated": "2026-07-15T19:37:57.547Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-07-15T19:38:00.267Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "6a59e53e-cb0c-499f-8b7d-8e5ca95130ec",
+      "endpointLabel": "Érica",
+      "bootId": "0771f12906d0410e9d661a31b39ac4ef",
+      "updatedAtUtc": "2026-07-15T19:37:57.547Z",
+      "reason": "manual",
+      "received": 74,
+      "upserted": 74
+    },
     {
       "syncedAtUtc": "2026-07-13T23:34:44.493Z",
       "source": "active-endpoint",
@@ -1690,18 +1723,6 @@
       "reason": "manual",
       "received": 55,
       "upserted": 55
-    },
-    {
-      "syncedAtUtc": "2026-05-06T12:10:17.463Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "c3400beb-a9d9-49e9-9f7f-4a91a18ac851",
-      "endpointLabel": "Aprovado",
-      "bootId": "626164d25d504202afcddb89ea9557d6",
-      "updatedAtUtc": "2026-05-06T12:10:14.700Z",
-      "reason": "manual",
-      "received": 52,
-      "upserted": 52
     }
   ]
 }
