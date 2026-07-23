@@ -2,6 +2,27 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "3e995ddaf6ea5da4",
+      "provider": "direct",
+      "url": "https://us.aws.cdn.hf.co/xet-bridge-us/6925d74a0e3f7ecfe411a96c/40f5aec11a654c6a0aa5458fead2bff02d4a769d8ccafd556aa4447112966109?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27flux-2-klein-9b-fp8mixed.safetensors%3B+filename%3D%22flux-2-klein-9b-fp8mixed.safetensors%22%3B&user_id=public&X-Xet-Cas-Uid=public&Expires=1784837701&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjkyNWQ3NGEwZTNmN2VjZmU0MTFhOTZjLzQwZjVhZWMxMWE2NTRjNmEwYWE1NDU4ZmVhZDJiZmYwMmQ0YTc2OWQ4Y2NhZmQ1NTZhYTQ0NDcxMTI5NjYxMDlcXD9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWlubGluZSUzQitmaWxlbmFtZSUyQSUzRFVURi04JTI3JTI3Zmx1eC0yLWtsZWluLTliLWZwOG1peGVkLnNhZmV0ZW5zb3JzJTNCK2ZpbGVuYW1lJTNEJTIyZmx1eC0yLWtsZWluLTliLWZwOG1peGVkLnNhZmV0ZW5zb3JzJTIyJTNCJnVzZXJfaWQ9cHVibGljJlgtWGV0LUNhcy1VaWQ9cHVibGljIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFcG9jaFRpbWUiOjE3ODQ4Mzc3MDF9fX1dfQ__&Signature=MEUCIQCm5BOOyAtEFbyh8SDxHhkkmwrYdW096XpqRfB5tidlywIgYKcRH5r5zOJUVggZUH%7EQbyiFKZ2U9LDw0AdUJKcCZ4w_&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F",
+      "filename": "flux-2-klein-9b-fp8mixed.safetensors",
+      "category": "diffusion_models",
+      "subdir": "",
+      "savedPath": "diffusion_models/flux-2-klein-9b-fp8mixed.safetensors",
+      "timestampUtc": "2026-07-23T19:22:57.174Z",
+      "updatedAtUtc": "2026-07-23T19:25:39.859Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "6a59e53e-cb0c-499f-8b7d-8e5ca95130ec",
+      "sourceEndpointLabel": "Érica",
+      "bootId": "c79569f90c1d4df9acfe06a46c5b16b7",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-07-23T19:25:41.136Z",
+      "lastImportedAtUtc": "2026-07-23T19:25:39.859Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "f8234ea598878481",
       "provider": "huggingface",
       "url": "https://huggingface.co/Winnougan/Krea-2-Base-Turbo-NVFP4-FP8-INT8/resolve/main/krea2_turbo_mxfp8.safetensors",
@@ -1577,9 +1598,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 75,
-  "lastUpdated": "2026-07-15T19:37:57.547Z",
+  "totalEntries": 76,
+  "lastUpdated": "2026-07-23T19:25:39.859Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-07-23T19:25:42.944Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "6a59e53e-cb0c-499f-8b7d-8e5ca95130ec",
+      "endpointLabel": "Érica",
+      "bootId": "c79569f90c1d4df9acfe06a46c5b16b7",
+      "updatedAtUtc": "2026-07-23T19:25:39.859Z",
+      "reason": "manual",
+      "received": 75,
+      "upserted": 75
+    },
     {
       "syncedAtUtc": "2026-07-15T19:38:00.267Z",
       "source": "active-endpoint",
@@ -1711,18 +1744,6 @@
       "reason": "manual",
       "received": 59,
       "upserted": 59
-    },
-    {
-      "syncedAtUtc": "2026-05-06T13:38:45.982Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "c3400beb-a9d9-49e9-9f7f-4a91a18ac851",
-      "endpointLabel": "Aprovado",
-      "bootId": "5a4c78cb8b1a44c49353c4322c5a86d8",
-      "updatedAtUtc": "2026-05-06T13:38:42.583Z",
-      "reason": "manual",
-      "received": 55,
-      "upserted": 55
     }
   ]
 }
