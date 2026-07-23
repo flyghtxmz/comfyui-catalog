@@ -2,6 +2,48 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "f74de5977549490f",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Union-Control/resolve/main/ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
+      "filename": "ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
+      "category": "loras",
+      "subdir": "",
+      "savedPath": "loras/ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
+      "timestampUtc": "2026-07-23T19:38:03.390Z",
+      "updatedAtUtc": "2026-07-23T19:38:57.184Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "6a59e53e-cb0c-499f-8b7d-8e5ca95130ec",
+      "sourceEndpointLabel": "Érica",
+      "bootId": "c79569f90c1d4df9acfe06a46c5b16b7",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-07-23T19:38:58.498Z",
+      "lastImportedAtUtc": "2026-07-23T19:38:57.184Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
+      "entryId": "c9a19fbc797680b4",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/unsloth/LTX-2.3-GGUF/resolve/main/ltx-2.3-22b-dev-Q4_K_M.gguf",
+      "filename": "ltx-2.3-22b-dev-Q4_K_M.gguf",
+      "category": "checkpoints",
+      "subdir": "",
+      "savedPath": "checkpoints/ltx-2.3-22b-dev-Q4_K_M.gguf",
+      "timestampUtc": "2026-07-23T19:32:04.312Z",
+      "updatedAtUtc": "2026-07-23T19:38:57.184Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "6a59e53e-cb0c-499f-8b7d-8e5ca95130ec",
+      "sourceEndpointLabel": "Érica",
+      "bootId": "c79569f90c1d4df9acfe06a46c5b16b7",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-07-23T19:38:58.501Z",
+      "lastImportedAtUtc": "2026-07-23T19:38:57.184Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "3e995ddaf6ea5da4",
       "provider": "direct",
       "url": "https://us.aws.cdn.hf.co/xet-bridge-us/6925d74a0e3f7ecfe411a96c/40f5aec11a654c6a0aa5458fead2bff02d4a769d8ccafd556aa4447112966109?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27flux-2-klein-9b-fp8mixed.safetensors%3B+filename%3D%22flux-2-klein-9b-fp8mixed.safetensors%22%3B&user_id=public&X-Xet-Cas-Uid=public&Expires=1784837701&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjkyNWQ3NGEwZTNmN2VjZmU0MTFhOTZjLzQwZjVhZWMxMWE2NTRjNmEwYWE1NDU4ZmVhZDJiZmYwMmQ0YTc2OWQ4Y2NhZmQ1NTZhYTQ0NDcxMTI5NjYxMDlcXD9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWlubGluZSUzQitmaWxlbmFtZSUyQSUzRFVURi04JTI3JTI3Zmx1eC0yLWtsZWluLTliLWZwOG1peGVkLnNhZmV0ZW5zb3JzJTNCK2ZpbGVuYW1lJTNEJTIyZmx1eC0yLWtsZWluLTliLWZwOG1peGVkLnNhZmV0ZW5zb3JzJTIyJTNCJnVzZXJfaWQ9cHVibGljJlgtWGV0LUNhcy1VaWQ9cHVibGljIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFcG9jaFRpbWUiOjE3ODQ4Mzc3MDF9fX1dfQ__&Signature=MEUCIQCm5BOOyAtEFbyh8SDxHhkkmwrYdW096XpqRfB5tidlywIgYKcRH5r5zOJUVggZUH%7EQbyiFKZ2U9LDw0AdUJKcCZ4w_&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F",
@@ -1598,9 +1640,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 76,
-  "lastUpdated": "2026-07-23T19:25:39.859Z",
+  "totalEntries": 78,
+  "lastUpdated": "2026-07-23T19:38:57.184Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-07-23T19:38:59.768Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "6a59e53e-cb0c-499f-8b7d-8e5ca95130ec",
+      "endpointLabel": "Érica",
+      "bootId": "c79569f90c1d4df9acfe06a46c5b16b7",
+      "updatedAtUtc": "2026-07-23T19:38:57.184Z",
+      "reason": "manual",
+      "received": 77,
+      "upserted": 77
+    },
     {
       "syncedAtUtc": "2026-07-23T19:25:42.944Z",
       "source": "active-endpoint",
@@ -1732,18 +1786,6 @@
       "reason": "manual",
       "received": 61,
       "upserted": 61
-    },
-    {
-      "syncedAtUtc": "2026-05-13T18:58:37.784Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
-      "endpointLabel": "00",
-      "bootId": "d276d68d878145319c6485804a3b1fc9",
-      "updatedAtUtc": "2026-05-13T18:58:34.851Z",
-      "reason": "manual",
-      "received": 59,
-      "upserted": 59
     }
   ]
 }
