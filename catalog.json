@@ -2,6 +2,27 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "245c2074b47c80f2",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/vantagewithai/LTX-2.3-GGUF/resolve/main/dev/ltx-2-3-22b-dev-Q4_K_M.gguf",
+      "filename": "ltx-2-3-22b-dev-Q4_K_M.gguf",
+      "category": "unet",
+      "subdir": "",
+      "savedPath": "unet/ltx-2-3-22b-dev-Q4_K_M.gguf",
+      "timestampUtc": "2026-07-25T02:34:25.792Z",
+      "updatedAtUtc": "2026-07-25T02:35:42.164Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "e403c121-8e0c-46cf-97f0-05e12501f0e2",
+      "sourceEndpointLabel": "Luiza Mendes",
+      "bootId": "c216b053c2084ec0a21822a7fcf2d303",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-07-25T02:35:43.136Z",
+      "lastImportedAtUtc": "2026-07-25T02:35:42.164Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "f74de5977549490f",
       "provider": "huggingface",
       "url": "https://huggingface.co/Lightricks/LTX-2.3-22b-IC-LoRA-Union-Control/resolve/main/ltx-2.3-22b-ic-lora-union-control-ref0.5.safetensors",
@@ -1640,9 +1661,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 78,
-  "lastUpdated": "2026-07-23T19:38:57.184Z",
+  "totalEntries": 79,
+  "lastUpdated": "2026-07-25T02:35:42.164Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-07-25T02:35:44.673Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "e403c121-8e0c-46cf-97f0-05e12501f0e2",
+      "endpointLabel": "Luiza Mendes",
+      "bootId": "c216b053c2084ec0a21822a7fcf2d303",
+      "updatedAtUtc": "2026-07-25T02:35:42.164Z",
+      "reason": "manual",
+      "received": 78,
+      "upserted": 78
+    },
     {
       "syncedAtUtc": "2026-07-23T19:38:59.768Z",
       "source": "active-endpoint",
@@ -1774,18 +1807,6 @@
       "reason": "manual",
       "received": 62,
       "upserted": 62
-    },
-    {
-      "syncedAtUtc": "2026-05-13T19:16:15.546Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "34dd25f1-f3f3-44c1-9267-2f7f332430a3",
-      "endpointLabel": "00",
-      "bootId": "d276d68d878145319c6485804a3b1fc9",
-      "updatedAtUtc": "2026-05-13T19:16:12.349Z",
-      "reason": "manual",
-      "received": 61,
-      "upserted": 61
     }
   ]
 }
