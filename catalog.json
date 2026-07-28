@@ -2,6 +2,27 @@
   "ok": true,
   "entries": [
     {
+      "entryId": "6c22a6f35cada9fd",
+      "provider": "huggingface",
+      "url": "https://huggingface.co/Kijai/LTX2.3_comfy/resolve/main/diffusion_models/ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
+      "filename": "ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
+      "category": "unet",
+      "subdir": "",
+      "savedPath": "unet/ltx-2.3-22b-distilled-1.1_transformer_only_fp8_scaled.safetensors",
+      "timestampUtc": "2026-07-27T18:13:16.279Z",
+      "updatedAtUtc": "2026-07-28T13:09:36.834Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "sourceEndpointId": "a0e23ac7-47bc-46c1-bb31-9a3fe520bef1",
+      "sourceEndpointLabel": "Menezes 36",
+      "bootId": "077667b45096491da117999d75647305",
+      "lastReason": "manual",
+      "createdAtUtc": "2026-07-28T13:09:37.832Z",
+      "lastImportedAtUtc": "2026-07-28T13:09:36.834Z",
+      "lastImportedSource": "active-endpoint",
+      "lastImportedReason": "manual"
+    },
+    {
       "entryId": "245c2074b47c80f2",
       "provider": "huggingface",
       "url": "https://huggingface.co/vantagewithai/LTX-2.3-GGUF/resolve/main/dev/ltx-2-3-22b-dev-Q4_K_M.gguf",
@@ -1661,9 +1682,21 @@
       "lastImportedReason": "manual"
     }
   ],
-  "totalEntries": 79,
-  "lastUpdated": "2026-07-25T02:35:42.164Z",
+  "totalEntries": 80,
+  "lastUpdated": "2026-07-28T13:09:36.834Z",
   "recentSyncs": [
+    {
+      "syncedAtUtc": "2026-07-28T13:09:40.183Z",
+      "source": "active-endpoint",
+      "app": "comfyui-modal",
+      "endpointId": "a0e23ac7-47bc-46c1-bb31-9a3fe520bef1",
+      "endpointLabel": "Menezes 36",
+      "bootId": "077667b45096491da117999d75647305",
+      "updatedAtUtc": "2026-07-28T13:09:36.834Z",
+      "reason": "manual",
+      "received": 79,
+      "upserted": 79
+    },
     {
       "syncedAtUtc": "2026-07-25T02:35:44.673Z",
       "source": "active-endpoint",
@@ -1795,18 +1828,6 @@
       "reason": "manual",
       "received": 63,
       "upserted": 63
-    },
-    {
-      "syncedAtUtc": "2026-05-14T13:43:15.943Z",
-      "source": "active-endpoint",
-      "app": "comfyui-modal",
-      "endpointId": "e403c121-8e0c-46cf-97f0-05e12501f0e2",
-      "endpointLabel": "Luiza Mendes",
-      "bootId": "1785a39e7c7e4c82b3acf7475fed1a9b",
-      "updatedAtUtc": "2026-05-14T13:43:13.344Z",
-      "reason": "manual",
-      "received": 62,
-      "upserted": 62
     }
   ]
 }
